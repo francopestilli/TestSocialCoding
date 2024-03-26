@@ -6,4 +6,4 @@ Franco: Is Associate Professor at UT Austin. He is the instructor for this class
 
 Victor: Is a student at UT Austin. Student for this class.
 
-Soemi: Is a student at UT Austin. Student for this class.
+Semi: Is a student at UT Austin. Student for this class.
