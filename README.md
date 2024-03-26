@@ -2,6 +2,6 @@
 
 ### Franco, Victor and Semi are working on this
 
-Franco: Is Associate Professor at UT Austin. He is the instrcutor for this class.
+Franco: Is Associate Professor at UT Austin. He is the instructor for this class.
 
-Victor: Is a student at UT Austin. Student for this class.s
+Victor: Is a student at UT Austin. Student for this class.
